@@ -19,9 +19,3 @@ Added More config in Jenkins to Test Multiple Jobs.
 Adding still more Lines
 
 Things are working.. fine Tuning.
-
-Added Few More Lines to check if All 
-
-The Checks are Working
-
-This should work.
